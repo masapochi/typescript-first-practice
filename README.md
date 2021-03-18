@@ -2,6 +2,10 @@
 
 TypeScriptの型について勉強（No.2）。
 
+参考：
+[Qiita](https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a)
+
+
  ## プリミティブ型
 - string
 - number
